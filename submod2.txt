@@ -1,1 +1,2 @@
 test submod2
+test submod2 2
